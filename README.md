@@ -23,16 +23,54 @@ In this lab we are going to discuss common issues related to Users and Computers
 - <b>Windows Server 2019</b>
 -<b>Active Directory Users and Computers</b>
 
-
-  <h2>Program walk-through:</h2>
+<h2>Program walk-through:</h2>
 <p align="center">
-  Installing Active Directory Users and Computers: <br/>
- <img src=".png" height="80%" width="80%" "/>
-<p align="center"> First after we have entered into Windows Server 19 is go to Add Roles and Features and after you have checked Active Directory 
-                   Domain Services go to 
+  FInding Users and Computers in Active Directory: <br/>
+ <img src="https://imgur.com/undefined.png" height="80%" width="80%" "/>
+<p align="center"> In dealing with the different tasks of AD, the first thing we need resolve is how to find our Users, Computers or Printers etc. So we would 
+                   go into User and Computers and right click on our domain, then click on "find", a box should open where you should see a drop down. The drop 
+                   down will have different options of what you are trying to find whether its a person(users), computer, a printer etc. So after you have 
+                   an option, let's say users, you can type in their first and last name. Then hit find now. This will automatically find the account that you 
+                   are looking for. So if a user is lockout of their account and they need a password reset. You can right click on the User then go to 
+                   properties. If you check the Users Account Tab, then check unlock users account and apply this should unlock the user's account.</br>
    
-   .</br>
+   </br>
 
 </br>                   
 </br>
-  <b>Active Directory Users and Computers</b
+
+<p align="center">
+  Unlocking the Users Account Active Directory (ie): <br/>
+ <img src="https://imgur.com/TuL1xa4.png" height="80%" width="80%" "/>
+<p align="center"> </br>
+   
+   </br>
+   </br>
+
+   </br>                   
+</br>
+
+<p align="center">
+   User Forget their Password and you have to perform a Reset (ie): <br/>
+ <img src="https://imgur.com/InUlefP.png" height="80%" width="80%" "/>
+<p align="center"> In this you are going to right click on the User Name and then click reset the Password. Then type in the new password . Then check the unlock the user's account along with the User must change password at next login. Then click Ok to apply</br>
+   
+   </br>
+   </br>
+
+   </br>                   
+</br>
+
+<p align="center">
+  User Reset Box (ie): <br/>
+ <img src="https://imgur.com/TuL1xa4.png" height="80%" width="80%" "/>
+<p align="center"> </br>
+   
+   </br>
+   </br>
+
+   </br>                   
+</br>
+ 
+   
+  
