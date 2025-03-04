@@ -21,6 +21,7 @@ In this lab we are going to discuss common issues related to Users and Computers
 
 - <b>Windows 10(21H2)(/b)
 - <b>Windows Server 2019</b>
+-<b>Active Directory Users and Computers</b>
 
 
   <h2>Program walk-through:</h2>
