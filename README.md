@@ -25,8 +25,8 @@ In this lab we are going to discuss common issues related to Users and Computers
 
 <h2>Program walk-through:</h2>
 <p align="center">
-  FInding Users and Computers in Active Directory: <br/>
- <img src="https://imgur.com/undefined.png" height="80%" width="80%" "/>
+  Finding Users and Computers in Active Directory: <br/>
+ <img src="https://imgur.com/BMg0SUP.png" height="80%" width="80%" "/>
 <p align="center"> In dealing with the different tasks of AD, the first thing we need resolve is how to find our Users, Computers or Printers etc. So we would 
                    go into User and Computers and right click on our domain, then click on "find", a box should open where you should see a drop down. The drop 
                    down will have different options of what you are trying to find whether its a person(users), computer, a printer etc. So after you have 
