@@ -63,10 +63,9 @@ In this lab we are going to discuss common issues related to Users and Computers
  <img src="https://imgur.com/TuL1xa4.png" height="80%" width="80%" "/>
 <p align="center"> </br>
    
- </br>
- </br>                   
- </br>
-
+ 
+                   
+   </br>
    </br>                   
    </br>
 
