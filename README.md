@@ -49,7 +49,7 @@ In this lab we are going to discuss common issues related to Users and Computers
    </br>
 
 <p align="center">
-   Another issue is if  a User Forgets their Password and you have to perform a Reset: <br/>
+   Another issue is when a User Forgets their Password and you have to perform a Reset: <br/>
  <img src="https://imgur.com/InUlefP.png" height="80%" width="80%" "/>
 <p align="center"> In this you are going to right click on the User Name and then click reset the Password. Then type in the new password. Then check the 
    unlock the user's account  along with the User must change password at next login. Then click ok to apply</br>   
@@ -71,7 +71,7 @@ In this lab we are going to discuss common issues related to Users and Computers
    </br>
 
 <p align="center">
-   Another issue for Active Directory is the change of a User's Profile: <br/>
+   A third issue of Active Directory is the changing of a User's Profile: <br/>
  <img src="https://imgur.com/pMKtol1.png" height="80%" width="80%" "/>
 <p align="center"> In this you are going to right click on the User Name then go to the properties. Then click the Profile type. Here if you want to change 
                    the description of the User, their is a prompt for that here. If you want to add a phone number you can also add it here.</br>   
@@ -93,7 +93,7 @@ In this lab we are going to discuss common issues related to Users and Computers
    </br>
 
 <p align="center">
-    Lastly, creating a Service Account in Active Directory: <br/>
+    The last issue is we want to Creating a Service Account in Active Directory: <br/>
    <img src="https://imgur.com/ArPGwc4.png" height="80%" width="80%" "/>
   <p align="center"> A service account is a special type of user account that is used to runs services, automated processes and critical systems. The 
                      difference between service accounts and users accounts is that service account provides an identity to a service or a system, while   
