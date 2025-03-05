@@ -42,19 +42,16 @@ In this lab we are going to discuss common issues related to Users and Computers
 <p align="center">
   Unlocking the Users Account Active Directory (ie): <br/>
  <img src="https://imgur.com/TuL1xa4.png" height="80%" width="80%" "/>
-<p align="center"> </br>
+<p align="center"> </br>   
    
    </br>
-   </br>
-
    </br>                   
-</br>
+   </br>
 
 <p align="center">
    User Forget their Password and you have to perform a Reset: <br/>
  <img src="https://imgur.com/InUlefP.png" height="80%" width="80%" "/>
-<p align="center"> In this you are going to right click on the User Name and then click reset the Password. Then type in the new password . Then check the unlock the user's account along with the User must change password at next login. Then click Ok to apply</br>
-   
+<p align="center"> In this you are going to right click on the User Name and then click reset the Password. Then type in the new password . Then check the unlock the user's account along with the User must change password at next login. Then click Ok to apply</br>   
    
    </br>
    </br>                   
@@ -65,11 +62,9 @@ In this lab we are going to discuss common issues related to Users and Computers
  <img src="https://imgur.com/TuL1xa4.png" height="80%" width="80%" "/>
 <p align="center"> </br>
    
-   </br>
-   </br>
-
-   </br>                   
-</br>
+ </br>
+ </br>                   
+ </br>
  
    
   
