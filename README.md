@@ -49,9 +49,10 @@ In this lab we are going to discuss common issues related to Users and Computers
    </br>
 
 <p align="center">
-   User Forget their Password and you have to perform a Reset: <br/>
+   Another issue is if  a User Forgets their Password and you have to perform a Reset: <br/>
  <img src="https://imgur.com/InUlefP.png" height="80%" width="80%" "/>
-<p align="center"> In this you are going to right click on the User Name and then click reset the Password. Then type in the new password . Then check the unlock the user's account along with the User must change password at next login. Then click Ok to apply</br>   
+<p align="center"> In this you are going to right click on the User Name and then click reset the Password. Then type in the new password. Then check the 
+   unlock the user's account  along with the User must change password at next login. Then click ok to apply</br>   
    
    </br>
    </br>                   
@@ -65,6 +66,47 @@ In this lab we are going to discuss common issues related to Users and Computers
  </br>
  </br>                   
  </br>
- 
+
+   </br>                   
+   </br>
+
+<p align="center">
+   Another issue for Active Directory is the change of a User's Profile: <br/>
+ <img src="https://imgur.com/pMKtol1.png" height="80%" width="80%" "/>
+<p align="center"> In this you are going to right click on the User Name then go to the properties. Then click the Profile type. Here if you want to change 
+                   the description of the User, their is a prompt for that here. If you want to add a phone number you can also add it here.</br>   
+   
+   </br>
+   </br>                   
+   </br>
+
+<p align="center">
+   A fourth issue for Active Directory adding Users to a group: <br/>
+ <img src="https://imgur.com/wqZmNXU.png" height="80%" width="80%" "/>
+<p align="center"> In this you are going to right click on the User Name then go to the properties. Then click the Member Of tab. Here, you can click on 
+                   then you can type in the name of the group, then check names of the Members of the group you want to add the User to , then ok and apply 
+                   them to the group.</br>   
+   
+   
+   </br> 
+   </br>                   
+   </br>
+
+<p align="center">
+    Lastly, creating a Service Account in Active Directory: <br/>
+   <img src="https://imgur.com/ArPGwc4.png" height="80%" width="80%" "/>
+  <p align="center"> A service account is a special type of user account that is used to runs services, automated processes and critical systems. The 
+                     difference between service accounts and users accounts is that service account provides an identity to a service or a system, while   
+                     a user account provides an identity for a person. So usually a computer or a server uses the service account while a person uses a user 
+                     account. Service accounts are used for persistent programs that run continously like security cameras, display monitors etc. So in 
+                     creating a Serivce Account you need to have a dedicated OU that is seperated from your user account. So create a seperate OU from the 
+                      where the User Account you can name it "Security Accounts." After creating a seperate dedicated OU for the service account just right 
+                      click, then go to new user. Name your service account with maybe a special character so its easy to tell if its a user account or a service 
+                      account. Then next and type in a password, uncheck the user must change password at the next login, then click on password never expires.
+                      Finally, when you have completed your service account right click on the name and add a description to the profile tab, the describe what the 
+                      service is about.</br>   
+   
+   </br>
+   </br>  
    
   
